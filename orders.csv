@@ -1,0 +1,31 @@
+Order_ID,Origin,Destination,Weight_kg,Volume_cbm,Deadline,Cargo_Type
+ORD001,Hana Lamphun,Vientiane,500,2.5,8/10/2026 12:00,Electronics
+ORD002,Hana Lamphun,Vientiane,1200,4,8/10/2026 15:00,Auto Parts
+ORD003,Hana Lamphun,Vientiane,850,3.2,8/11/2026 10:00,Food (Dry)
+ORD004,Hana Lamphun,Vientiane,300,1,8/10/2026 9:00,Chemical
+ORD005,Hana Lamphun,Vientiane,2000,8.5,8/12/2026 18:00,Electronics
+ORD006,Hana Lamphun,Penang,150,1.5,8/13/2026 14:00,Medical Supplies
+ORD007,Hana Lamphun,Penang,450,2,8/13/2026 16:00,Electronics
+ORD008,Hana Lamphun,Kuala Lumpur,2200,10,8/14/2026 10:00,Auto Parts
+ORD009,Hana Lamphun,Kuala Lumpur,800,4.5,8/14/2026 12:00,Chemical
+ORD010,Hana Lamphun,Penang,950,5,8/13/2026 10:00,Food (Dry)
+ORD011,Hana Lamphun,Kunming,3100,12,8/15/2026 8:00,Electronics
+ORD012,Hana Lamphun,Kunming,600,2.5,8/14/2026 15:00,Medical Supplies
+ORD013,Hana Lamphun,Guangzhou,1800,9,8/16/2026 12:00,Auto Parts
+ORD014,Hana Lamphun,Guangzhou,400,1.8,8/15/2026 9:00,Chemical
+ORD015,Hana Lamphun,Kunming,1100,6,8/15/2026 14:00,Electronics
+ORD016,Hana Lamphun,Hanoi,750,3.5,8/12/2026 10:00,Food (Dry)
+ORD017,Hana Lamphun,Hanoi,1300,6.5,8/12/2026 16:00,Electronics
+ORD018,Hana Lamphun,Ho Chi Minh,2500,11,8/14/2026 9:00,Auto Parts
+ORD019,Hana Lamphun,Hanoi,550,2,8/12/2026 11:00,Medical Supplies
+ORD020,Hana Lamphun,Ho Chi Minh,900,4,8/14/2026 15:00,Chemical
+ORD021,Hana Lamphun,Vientiane,400,1.5,8/10/2026 18:00,Electronics
+ORD022,Hana Lamphun,Vientiane,650,3,8/11/2026 12:00,Medical Supplies
+ORD023,Hana Lamphun,Penang,1750,8,8/13/2026 9:00,Auto Parts
+ORD024,Hana Lamphun,Kuala Lumpur,300,1.2,8/14/2026 16:00,Electronics
+ORD025,Hana Lamphun,Kunming,2100,9.5,8/15/2026 10:00,Food (Dry)
+ORD026,Hana Lamphun,Guangzhou,850,4.2,8/16/2026 8:00,Electronics
+ORD027,Hana Lamphun,Hanoi,1050,5.5,8/12/2026 14:00,Auto Parts
+ORD028,Hana Lamphun,Ho Chi Minh,700,3,8/14/2026 11:00,Chemical
+ORD029,Hana Lamphun,Vientiane,1400,7,8/11/2026 16:00,Electronics
+ORD030,Hana Lamphun,Penang,950,4.5,8/13/2026 15:00,Medical Supplies
