@@ -110,6 +110,7 @@ langs = {
 
 if 'fuel_price' not in st.session_state: st.session_state.fuel_price = 32.5
 if 'driver_count' not in st.session_state: st.session_state.driver_count = 5
+if 'dispatch_hour' not in st.session_state: st.session_state.dispatch_hour = 8  # 👈 เพิ่มบรรทัดนี้เข้าไปครับ
 if 'trucks_schedule' not in st.session_state: st.session_state.trucks_schedule = []
 if 'ai_issues' not in st.session_state: st.session_state.ai_issues = []
 if 'last_scenario' not in st.session_state: st.session_state.last_scenario = "Normal"
