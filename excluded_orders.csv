@@ -1,0 +1,13 @@
+Order_ID,Origin,Destination,Weight_kg,Volume_cbm,Deadline,Cargo_Type,Excluded_Time,Reason
+DSR-996067,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 11:50,Electronics,2026-08-13 20:24,Rejected JIT plan (Time constraint physically impossible)
+DSR-291895,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 12:50,Electronics,2026-08-13 20:24,Rejected JIT plan (Time constraint physically impossible)
+DSR-928978,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 13:40,Electronics,2026-08-13 20:24,Rejected JIT plan (Time constraint physically impossible)
+DSR-80376,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 16:33,Electronics,2026-08-13 20:24,Rejected JIT plan (Time constraint physically impossible)
+DSR-250837,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 16:39,Electronics,2026-08-13 20:24,Rejected JIT plan (Time constraint physically impossible)
+DSR-977422,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 16:34,Electronics,2026-08-13 20:39,Rejected JIT plan (Time constraint physically impossible)
+DSR-955942,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 20:31,Electronics,2026-08-13 20:39,Rejected JIT plan (Time constraint physically impossible)
+DSR-261094,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 22:38,Electronics,2026-08-13 23:30,Rejected JIT plan (Time constraint physically impossible)
+DSR-221133,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 23:28,Electronics,2026-08-13 23:30,Rejected JIT plan (Time constraint physically impossible)
+DSR-527499,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-13 23:29,Electronics,2026-08-13 23:30,Rejected JIT plan (Time constraint physically impossible)
+DSR-88489,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-14 11:09,Electronics,2026-08-14 11:13,Rejected JIT plan (Time constraint physically impossible)
+DSR-237706,Hana Lamphun,Guangzhou,8000.0,15.0,2026-08-14 11:12,Electronics,2026-08-14 11:13,Rejected JIT plan (Time constraint physically impossible)
